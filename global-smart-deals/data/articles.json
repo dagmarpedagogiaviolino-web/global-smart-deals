@@ -1,0 +1,47 @@
+[
+  {
+    "id": "choose-software",
+    "icon": "⌘",
+    "category": "SOFTWARE",
+    "title": {
+      "pt": "Como avaliar uma ferramenta digital antes de assinar",
+      "en": "How to evaluate a digital tool before subscribing",
+      "es": "Cómo evaluar una herramienta digital antes de suscribirse"
+    },
+    "description": {
+      "pt": "Confira critérios como preço total, privacidade, suporte, período de teste e cancelamento.",
+      "en": "Review total cost, privacy, support, trial periods and cancellation terms.",
+      "es": "Revisa el coste total, la privacidad, el soporte, las pruebas y las condiciones de cancelación."
+    }
+  },
+  {
+    "id": "affiliate-basics",
+    "icon": "↗",
+    "category": "GUIA",
+    "title": {
+      "pt": "Como funcionam os links de afiliados",
+      "en": "How affiliate links work",
+      "es": "Cómo funcionan los enlaces de afiliados"
+    },
+    "description": {
+      "pt": "Entenda rastreamento, atribuição de vendas, comissões e divulgação transparente.",
+      "en": "Understand tracking, sales attribution, commissions and clear disclosures.",
+      "es": "Comprende el seguimiento, la atribución de ventas, las comisiones y la divulgación transparente."
+    }
+  },
+  {
+    "id": "compare-products",
+    "icon": "⇄",
+    "category": "COMPARATIVO",
+    "title": {
+      "pt": "Um método simples para comparar produtos",
+      "en": "A simple method to compare products",
+      "es": "Un método sencillo para comparar productos"
+    },
+    "description": {
+      "pt": "Organize necessidades, recursos, custos recorrentes e limitações antes de escolher.",
+      "en": "Organize needs, features, recurring costs and limitations before choosing.",
+      "es": "Organiza necesidades, funciones, costes recurrentes y limitaciones antes de elegir."
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "Global Smart Deals",
+  "short_name": "Smart Deals",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fb",
+  "theme_color": "#101b2d",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

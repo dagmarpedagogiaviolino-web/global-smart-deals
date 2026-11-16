@@ -1,0 +1,86 @@
+[
+  {
+    "id": "sample-ai-tool",
+    "name": {
+      "pt": "Ferramenta de IA — exemplo",
+      "en": "AI tool — sample",
+      "es": "Herramienta de IA — ejemplo"
+    },
+    "description": {
+      "pt": "Cartão demonstrativo para uma ferramenta de produtividade com inteligência artificial. Substitua por uma oferta real e verificada.",
+      "en": "Demo card for an AI productivity tool. Replace it with a real, verified offer.",
+      "es": "Tarjeta de demostración para una herramienta de productividad con IA. Sustitúyala por una oferta real verificada."
+    },
+    "category": "software",
+    "currency": "USD",
+    "price": null,
+    "platform": "A configurar",
+    "officialUrl": "",
+    "affiliateUrl": "",
+    "language": [
+      "pt",
+      "en",
+      "es"
+    ],
+    "updated": "2026-11-16",
+    "icon": "✦",
+    "tone": "tone-lilac",
+    "demo": true
+  },
+  {
+    "id": "sample-online-course",
+    "name": {
+      "pt": "Curso online — exemplo",
+      "en": "Online course — sample",
+      "es": "Curso online — ejemplo"
+    },
+    "description": {
+      "pt": "Exemplo de espaço para curso ou treinamento digital. Não representa um curso à venda.",
+      "en": "Sample space for a digital course or training. Not an actual offer.",
+      "es": "Espacio de ejemplo para un curso o formación digital. No es una oferta real."
+    },
+    "category": "education",
+    "currency": "EUR",
+    "price": null,
+    "platform": "A configurar",
+    "officialUrl": "",
+    "affiliateUrl": "",
+    "language": [
+      "pt",
+      "en",
+      "es"
+    ],
+    "updated": "2026-11-16",
+    "icon": "▤",
+    "tone": "tone-peach",
+    "demo": true
+  },
+  {
+    "id": "sample-smart-home",
+    "name": {
+      "pt": "Produto para casa — exemplo",
+      "en": "Home product — sample",
+      "es": "Producto para el hogar — ejemplo"
+    },
+    "description": {
+      "pt": "Exemplo visual de produto físico para casa e estilo de vida. Cadastre apenas após validar vendedor, preço e disponibilidade.",
+      "en": "Visual sample for a home and lifestyle product. Add only after verifying seller, price and availability.",
+      "es": "Ejemplo visual de un producto para el hogar y estilo de vida. Añada solo después de verificar vendedor, precio y disponibilidad."
+    },
+    "category": "home",
+    "currency": "USD",
+    "price": null,
+    "platform": "A configurar",
+    "officialUrl": "",
+    "affiliateUrl": "",
+    "language": [
+      "pt",
+      "en",
+      "es"
+    ],
+    "updated": "2026-11-16",
+    "icon": "⌂",
+    "tone": "tone-green",
+    "demo": true
+  }
+]
